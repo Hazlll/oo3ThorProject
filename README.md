@@ -1,5 +1,5 @@
 # oo3ThorProject
-
+team leader : EBORA, True C. 
 
 Project Title: SmartSaving 
 SDG 1: No Poverty
